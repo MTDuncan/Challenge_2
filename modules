@@ -1,0 +1,3 @@
+[submodule "challenges02"]
+    path = challenges02
+    url = https://github.com/MTDuncan/Challenge02.git
