@@ -1,0 +1,61 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+
+body {
+    background-color: cadetblue;
+    display: flexbox;
+}
+
+header {
+    display: flexbox;
+    list-style: none;
+    justify-content: flex-start;
+    padding: 40;
+    align-items:center
+
+
+}
+
+#portfolio {
+    display: flex;
+    justify-content: left;
+    display: inline-flex;
+    
+
+}
+
+.header nav {
+    display: flex;
+    list-style: none;
+    justify-content: flex-end;
+
+}
+
+#works {
+    display: flex;
+    flex-direction: row;
+
+
+}
+
+
+
+
+
+
+.headerssection {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 60px;
+    padding: 30;
+}
+
+.paras {
+    display: flex;
+    border-style: solid;
+    border-color: purple 5px;
+    margin: 40px;
+}
